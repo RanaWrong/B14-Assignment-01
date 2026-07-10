@@ -531,8 +531,6 @@ footer hr {
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    justify-content: space-between;
-    gap: 30px;
 }
 
 .footer-links a {
